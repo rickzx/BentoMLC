@@ -1,0 +1,7 @@
+--find-links https://mlc.ai/wheels
+mlc-llm-nightly-cu122
+mlc-ai-nightly-cu122
+
+bentoml>=1.2.9
+torch==2.3.0
+transformers==4.40.2
